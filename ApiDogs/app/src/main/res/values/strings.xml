@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApiDogs</string>
+    <string name="dog_image">Imagen del perro</string>
+    <string name="dog_name">Nombre del perro</string>
+    <string name="back">Volver</string>
+    <string name="change_image">Cambiar imagen</string>
+</resources>
+
